@@ -22,8 +22,6 @@ project-repo/
 │   ├── raw/
 │   └── silver/
 ├── notebooks/
-│   ├── NguoiI_DataCleaning_PhanA.py
-│   ├── NguoiII_DataCleaning_PhanB.py
 │   └── clean_bronze_to_silver.py
 ├── docs/
 │   ├── ERD.png
